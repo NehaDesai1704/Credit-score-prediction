@@ -27,4 +27,4 @@ This project predicts credit score categories (Low, Medium, High) using various 
 - `Credit Score Classification Dataset.csv` — Input dataset  
 
 ## 👩‍💻 Author
-Internship Project by **Desai Neha**
+Project by **Desai Neha**
